@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @santiago-lago
-- 👀 I’m a Product Specialist interested in BlockChain Development.
+- 👀 I’m a Product Owner and Software Developer interested in BlockChain.
 - 🌱 I’m currently learning Solidity at BuildSpace.
-- 💞️ I’m looking to collaborate on anything BlockChain related.
+- 🤝 I’m looking to collaborate on anything BlockChain related.
 - 📫 Connect with me in Linkedin at https://www.linkedin.com/in/santiago-lago/
